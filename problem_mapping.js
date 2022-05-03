@@ -62,7 +62,7 @@ problem_mapping = {
                 "total": 10000
             },
             "Java: ClosestIntSameWeight.java": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             },
             "Python: closest_int_same_weight.py": {
@@ -118,7 +118,7 @@ problem_mapping = {
                 "total": 19952
             },
             "Java: ReverseDigits.java": {
-                "passed": 0,
+                "passed": 19952,
                 "total": 19952
             },
             "Python: reverse_digits.py": {
